@@ -1,0 +1,28 @@
+{
+  "name": "testbench",
+  "version": "1.0.0",
+  "description": "A highly compatible JavaScript benchmarking framework inspired by Mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wildenhaus/TestBench.git"
+  },
+  "keywords": [
+    "benchmark",
+    "benchmarking",
+    "javascript",
+    "browser",
+    "node",
+    "nodejs",
+    "mocha"
+  ],
+  "author": "Reid Wildenhaus",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Wildenhaus/TestBench/issues"
+  },
+  "homepage": "https://github.com/Wildenhaus/TestBench#readme"
+}
