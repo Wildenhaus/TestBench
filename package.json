@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/Wildenhaus/TestBench/issues"
   },
-  "homepage": "https://github.com/Wildenhaus/TestBench#readme"
+  "homepage": "https://github.com/Wildenhaus/TestBench#readme",
+  "dependencies": {
+    "ora": "^3.0.0"
+  }
 }
